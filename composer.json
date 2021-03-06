@@ -2,6 +2,5 @@
     "name": "hatem-ghaly/using_curl",
     "description": "A simple example how to use CURL library",
     
-    "minimum-stability": "dev"
    
 }
