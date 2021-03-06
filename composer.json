@@ -1,5 +1,5 @@
 {
-    "name": "HatemGhaly/using_curl",
+    "name": "hatem-ghaly/using_curl",
     "description": "A simple example how to use CURL library",
     "require": {
         "php": ">=5.6",
