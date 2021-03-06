@@ -1,6 +1,11 @@
 {
     "name": "hatem-ghaly/using_curl",
-    "description": "A simple example how to use CURL library"
+    "description": "A simple example how to use CURL library",
+    "autoload": {
+        "psr-4": {
+            "hatem-ghaly\\using_curl\\": "src/"
+        }
+    }
     
    
 }
